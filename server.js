@@ -43,7 +43,7 @@ if(process.env.NODE_ENV === 'production') {
         res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
     });
 }
-
+// if on mac disable Airplay Receiver in system preferences> Sharing since it runs on port 5000 project will only work with port 5000
 const port = process.env.PORT || 5000
 // process.env.pot is Heroku's port if one chooses to deploy there
 

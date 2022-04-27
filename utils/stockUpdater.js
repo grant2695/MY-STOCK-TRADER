@@ -11,6 +11,7 @@ module.exports = function stockUpdater (parsedInfo, stock, symbol) {
         stock = newEntry;
     }
     // Else Update info
+        //
     else {
         stock.overwrite({
             ticker_symbol: symbol,

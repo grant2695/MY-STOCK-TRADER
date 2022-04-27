@@ -10,7 +10,7 @@ function isTickerSymbol(data) {
 
 module.exports = function validatePurchaseInput (data) {
     let errors = {};
-
+//
     // Convert empty fields to an empty string to use validator functiosn
     data.symbol = !isEmpty(data.symbol) ? data.symbol : "";
     data.quantity = !isEmpty(data.quantity) ? data.quantity : "";
