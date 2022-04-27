@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-
+//adjust
 // Make Schema
 // Will account for buying and selling 
 // If stock quantity positive, was a purchase
