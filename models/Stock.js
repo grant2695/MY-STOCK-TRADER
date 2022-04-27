@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-
+//
 // Make Schema
 const StockSchema = new Schema({
   ticker_symbol: {

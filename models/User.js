@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-
+//
 const heldStockSchema = new Schema({
   symbol: {
     type: String,
