@@ -185,7 +185,8 @@ class Dashboard extends Component {
                           width: "100px",
                           borderRadius: "3px",
                           letterSpacing: "1.5px",
-                          marginTop: "1rem"
+                          marginTop: "1rem",
+                          marginRight:"2px"
                         }}
                         onClick={this.onBuyClick}
                         className="btn btn-large waves-effect waves-light hoverable blue accent-3"
@@ -197,7 +198,8 @@ class Dashboard extends Component {
                           width: "100px",
                           borderRadius: "3px",
                           letterSpacing: "1.5px",
-                          marginTop: "1rem"
+                          marginTop: "1rem",
+                            marginRight:"2px"
                         }}
                         onClick={this.onSellClick}
                         className="btn btn-large waves-effect waves-light hoverable blue accent-3"
@@ -209,7 +211,8 @@ class Dashboard extends Component {
                           width: "150px",
                           borderRadius: "3px",
                           letterSpacing: "1.5px",
-                          marginTop: "1rem"
+                          marginTop: "1rem",
+                            marginRight:"2px"
                         }}
                         onClick={this.onUpdateClick}
                         className="btn btn-large waves-effect waves-light hoverable blue accent-3"
