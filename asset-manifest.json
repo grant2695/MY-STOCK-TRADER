@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MY-STOCK-TRADER/static/css/main.e833a1b4.chunk.css",
+    "main.js": "/MY-STOCK-TRADER/static/js/main.bb86d6f8.chunk.js",
+    "main.js.map": "/MY-STOCK-TRADER/static/js/main.bb86d6f8.chunk.js.map",
+    "runtime~main.js": "/MY-STOCK-TRADER/static/js/runtime~main.01c2fc00.js",
+    "runtime~main.js.map": "/MY-STOCK-TRADER/static/js/runtime~main.01c2fc00.js.map",
+    "static/js/2.29945ac5.chunk.js": "/MY-STOCK-TRADER/static/js/2.29945ac5.chunk.js",
+    "static/js/2.29945ac5.chunk.js.map": "/MY-STOCK-TRADER/static/js/2.29945ac5.chunk.js.map",
+    "index.html": "/MY-STOCK-TRADER/index.html",
+    "precache-manifest.a962e15ac2fb95b8cb5a9d48dd77dd05.js": "/MY-STOCK-TRADER/precache-manifest.a962e15ac2fb95b8cb5a9d48dd77dd05.js",
+    "service-worker.js": "/MY-STOCK-TRADER/service-worker.js",
+    "static/css/main.e833a1b4.chunk.css.map": "/MY-STOCK-TRADER/static/css/main.e833a1b4.chunk.css.map"
+  }
+}
